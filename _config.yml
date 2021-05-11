@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Datahive"
+title                    : "E-Han Machine learning"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yi Han"
-description              : "Distilling the principles of the papers"
+description              : "Distilling the principles of machine learning papers"
 url                      : "https://datahiveyh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "datahiveyh/datahiveyh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
