@@ -18,7 +18,7 @@ main:
     description: "About me."
   - title: "60s-paper"
     url: /portfolio/
-    description: "Read a machine learning paper in 60s."
+    description: "Read a machine learning paper in 60s!"
   - title: "Projects"
     url: /projects/
     description: "My machine learning projects."
