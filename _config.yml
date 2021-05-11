@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Yi Han"
   avatar           : "/assets/images/selfie.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A data scientist never stop learning."
+  bio              : "Never stop learning."
   location         : "Somewhere"
   email            :
   links:
