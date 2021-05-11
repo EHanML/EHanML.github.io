@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "E-Han Machine learning"
+title                    : "E-Han Machine Learning"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yi Han"
 description              : "Distilling the principles of machine learning papers"
-url                      : "https://datahiveyh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ehanml.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "datahiveyh/datahiveyh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ehanml/ehanml.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/icons/dh.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Datahive" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "E-Han Machine Learning" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,7 +106,7 @@ author:
       url: "joshuahane@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://datahiveyh.github.io/"
+      url: "https://ehanml.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/YiHan96461195"
