@@ -22,7 +22,7 @@ main:
   - title: "Projects"
     url: /projects/
     description: "My machine learning projects."
-  - title: "Resume"
-    url: /assets/docs/resume-kbosko.pdf  
+  # - title: "Resume"
+    # url: /assets/docs/resume-kbosko.pdf  
   - title: "Archive"
     url: /year-archive/
