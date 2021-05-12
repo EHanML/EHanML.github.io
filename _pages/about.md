@@ -51,7 +51,13 @@ The increasing digitalization (sensors) of society procduce a huge amount of com
 
 I am currently a Ph.D. student in the agricultural and biological engineering department at the University of Florida major in machine learning. I had two master's degrees in quantitative genetics and statistics. I enjoy reading machine learning books in my spare time and I finished more than 10 books during my Ph.D. program. However, textbooks are not enough because the field of AI is developing faster than ever; new methods can become outdated in a few months. Hence, I never stop catching up with the latest papers published in the top AI conferences. I find most of these papers can be well summarized in few sentences so I create this [60s-Paper](/portfolio/) module to help people get the principles of these papers fast. My solid statistical training enabled me to gain a deep understanding of why and how machine learning models work so I can correctly deploy AI solutions to various scenarios (see my [Projects](/projects/)). 
 
-Besides data science, I am passionate about real-world agricultural problems because it aims to solve basic human needs. Therefore, I am committed to contributing to the AI revolution of agricultural systems. My vision is to digitize agricultural problems and solve them with AI techniques. The AI revolution is an inevitable worldwide trend. However, the field of agriculture has not fully benefited from AI so far. Current agricultural AI applications are mostly classical statistical and machine learning decision-makers and other AI techniques, such as image recognition, that replace simple human labor. AI can do much more than that; AI is a general idea that formulates real-world problems to numerical representation that computers can process. My research's long-term goal is to use statistical AI techniques, such as machine learning, deep learning, and their Bayesian version, to help with the decision support systems and other agriculture featured problems. 
+
+
+<figure style="width: 30%" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/datascience.jpg" alt="">
+</figure> 
+
+Besides machine learning, I am passionate about real-world agricultural problems because it aims to solve basic human needs. Therefore, I am committed to contributing to the AI revolution of agricultural systems. My vision is to digitize agricultural problems and solve them with AI techniques. The AI revolution is an inevitable worldwide trend. However, the field of agriculture has not fully benefited from AI so far. Current agricultural AI applications are mostly classical statistical and machine learning decision-makers and other AI techniques, such as image recognition, that replace simple human labor. AI can do much more than that; AI is a general idea that formulates real-world problems to numerical representation that computers can process. My research's long-term goal is to use statistical AI techniques, such as machine learning, deep learning, and their Bayesian version, to help with the decision support systems and other agriculture featured problems. 
 
 I am looking for acedemy job opportunities where I can keep learning the cutting eadge techniques and deliver AI solutions to the argricalural problems. My goal is to boost the efficiency of agricultural systems with machine learning techniques. Therefore, those who spent their entire life fighting for a basic living will have the energy to explore their potential and make the world a better place. Feel free to [contact me](mailto: joshuahane@gmail.com) if you think I am suitable for your position. 
 
@@ -65,7 +71,7 @@ I am looking for acedemy job opportunities where I can keep learning the cutting
 
 ## List of software I use
 
--**Python**: `tensorflow`, `pytorh`, `earthengine`, `hyperopt`, `numpy`, `pandas`, `Sklearn`, `XGBoost`, `lightGBM`.
+-**Python**: `tensorflow`, `pytorch`, `earthengine`, `hyperopt`, `numpy`, `pandas`, `Sklearn`, `XGBoost`, `lightGBM`.
 
 -**R**: `tensorflow`, `tidyverse` series, `caret`, `stan`, `XGBoost`.
 
