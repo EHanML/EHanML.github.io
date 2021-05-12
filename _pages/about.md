@@ -49,7 +49,7 @@ The increasing digitalization (sensors) of society procduce a huge amount of com
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/book1.jpg" alt="">
 </figure> 
 
-I am currently a Ph.D. student in the agricultural and biological engineering department at the University of Florida major in machine learning. I had two master's degrees in quantitative genetics and statistics. I enjoy reading machine learning books in my spare time and I finished more than 10 books during my Ph.D. program. However, textbooks are not enough because the field of AI is developing faster than ever; new methods can become outdated in a few months. Hence, I never stop catching up with the latest papers published in the top AI conferences. I find most of these papers can be well summarized in few sentences so I create this [60s-Paper](/portfolio/) module to help people get the principles of these papers fast. My solid statistical training enabled me to gain a deep understanding of why and how machine learning models work so I can correctly deploy AI solutions to various scenarios (see my [Projects](/projects/)). 
+I am currently a Ph.D. student in the agricultural and biological engineering department at the University of Florida major in machine learning. I had two master's degrees in quantitative genetics and statistics. I enjoy reading machine learning books and learning different machine learning areas in my spare time. I finished more than 10 books and several online courses during my Ph.D. program, so I have the foundamental knowledges across many machine learning areas, including *computer vision, natural lauguege processing, graph neural network, kernel machines,marke bayesian deep learning, generative models (e.g. GAN, VAE, EBM, diffusion probabilistic models), reinforcement learning, causal inference and meta-learning.* However, textbooks are not enough because the field of AI is developing faster than ever; new methods can become outdated in a few months. Hence, I never stop catching up with the latest papers published in the top AI conferences. I find most of these papers can be well summarized in few sentences so I create this [60s-Paper](/portfolio/) module to help people get the principles of these papers fast. My solid statistical training enabled me to gain a deep understanding of why and how machine learning models work so I can correctly deploy AI solutions to various scenarios (see my [Projects](/projects/)). 
 
 
 
@@ -67,6 +67,8 @@ I am looking for acedemy job opportunities where I can keep learning the cutting
 -**Machine learning techinques**: Uncertainty quantification, Bayesian deep learning, zero-inflated modeling, anomally detection, generative models, computer vision (satellite image collections), and deploy these methods to argricultural problems.
 
 -**Argricultural issues**: I have experiences in water resource, sensor data, precipitation, animal behavior and quantitative genetic issues. 
+
+
 
 
 ## List of software I use
