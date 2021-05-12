@@ -4,94 +4,75 @@ permalink: /about/
 title: About
 author_profile: true
 header:
-    overlay_image: /assets/images/joel-filipe-small-warmer.jpg
+    overlay_image: /assets/images/header.jpg
     # caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
 classes: wide
-date: August 28, 2019
+date: May 12, 2021
 ---
 
-<figure style="width: 30%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hawaii.jpg" alt="">
+
+
+I am engaged in gaining **wide and deep** knowledge of the cutting edge AI methods and find the AI solutions to real-world problems, especially in agricultural scenarios. 
+
+
+## Why we have this "Big Data" revolution?
+
+
+
+Because the deep model architechture can memorize a big amount of the complicated data (e.g. images, sounds, natural lauguage) in an efficient way. Therefore, a machine can have much more experience than a human can ever bear. For example, an AI robot can have 180 years of human dota playing experience in a day, which is why it can beat the humans champions. Here I will present my insights into the field of AI, machine learning, and deep learning. 
+
+
+- **What is AI?** 
+
+<figure style="width: 40%" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/aidef.png" alt="">
 </figure> 
 
-I am currently in career transition from applied research to Data Science. `Cross-validated` is my personal blog to keep track of my projects and different HOWTOs related to Data Science and tech.
+AI is a very broad and general concept that explains itself: let the machine have human intelligence. However, this term has been heavily abused probably because it makes things sound fancier. However, today's AI systems are more machine learning systems that do not have any real intelligence. 
 
-My background is hybrid – I am passionate about numbers and analytics, but also have management and consulting experience.
+> We don't have AI systems which actually understand at the levels of humans do anywhere close. (11-30-2020)
+>
+> -- <cite> Yoshua Bengio </cite> 
 
-I am looking for job opportunities where I can help companies **optimize marketing and product development** by delivering actionable data insights using **Python, SQL and Tableau** (or similar technologies). 
+- **What is machine learning?** 
 
-Feel free to [contact me](mailto: kbosko@cross-validated.com) if you find my blog useful, think I might be a good fit or simply would like to connect. 
+All you need to understand is the word "learning", which means **statistical estimation**. However, the number of paramters may be huge and we are not able to estimate them by hand. We need machines to do the calculations for us, which leads to the term machine learning. To sum up, machine learing is applied statistics with more emphasis on statistical estimation.
 
+- **What is deep learning?** 
 
-{: .text-justify}
+The increasing digitalization (sensors) of society procduce a huge amount of complicated data, which makes the machine learning problems more and more complicated. The number of paramters need to be huge to model these complicated data (e.g. satellite images), but the most advanced machines cannot complete these statistical estimations in a reasonable time. To avoid getting a model in 10 years, we need more efficient way to extract the key concepts (disentangled representation) from these data (entangled representation). Therefore, we need **deep architectures** which can reduce the computation burdern at a log scale. This statisitical reason is why deep learning can take advantage of the "Big Data". To sum up, deep learning is machine learning that have superior statistical efficiency so it can encodes very general belief of the data. 
+
 
 ## My Background
-I was born and grew up in Ukraine and lived in Germany for almost 10 years. Since 2018 I live in California, the US.
 
-I have a PhD in Political Science (2017) and developed strong **analytical, communication and management skills** throughout my almost 10 years career in Applied Policy Research in Germany. 
-
-I have published over 40 analytical articles and gave over 30 public talks and lectures (see the full list under [Achievements](/achievements/)). So I know how to communicate results to different audiences. I also consulted and provided expertise on Ukrainian politics to German media, interested public and other stakeholders.
-
-For almost 5 years I worked in a similar to a **Product Manager role in academic setting** - I was a Managing Editor of online analytical digest ["Ukraine-Analysen"](https://www.laender-analysen.de/ukraine-analysen/) (3500+ subscribers) with two weeks publication deadlines. 
-
-In this role, I wore many hats:
 <figure style="width: 30%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Ukraine-Analysen-800.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/book1.jpg" alt="">
 </figure> 
 
-- **Strategic Planning** - defined the strategic direction of the digest based on our mission, in response to hot topics, subscriber's interests, technological and financial resources available; built editorial calender
-- **Collaborate & Coordinate** - built relationships with potential authors/researchers worldwide (lead generation); coordinated the processes of proofreading, translation and layout
-- **Day-to-day Management** -  implemented a content strategy: contacted authors, enforced deadlines and budget requirements, ensured quality and style compliance 
-- **Write & Edit** - wrote a number of analytical articles myself and edited authors' submissions when necessary
-- **Data Visualizations & Asset Creation** - collected, analyzed and visualized data on key topics of each issue (opinion polls, reviews of press coverage, statistical data, etc.).
-- **Digital Analytics** - monitored the key metrics (Click-through-Rates, Open Rates, Bounce Rates, Pageviews, Unsubscribes, etc) on a regular basis 
-- **Marketing Online and Offline** - increased digest's awareness at different public events where I was invited as a speaker; responsible for social media posts and website updates
+I am currently a Ph.D. student in the agricultural and biological engineering department at the University of Florida major in machine learning. I had two master's degrees in quantitative genetics and statistics. I enjoy reading machine learning books in my spare time and I finished more than 10 books during my Ph.D. program. However, textbooks are not enough because the field of AI is developing faster than ever; new methods can become outdated in a few months. Hence, I never stop catching up with the latest papers published in the top AI conferences. I find most of these papers can be well summarized in few sentences so I create this [60s-Paper](/portfolio/) module to help people get the principles of these papers fast. My solid statistical training enabled me to gain a deep understanding of why and how machine learning models work so I can correctly deploy AI solutions to various scenarios (see my [Projects](/projects/)). 
+
+Besides data science, I am passionate about real-world agricultural problems because it aims to solve basic human needs. Therefore, I am committed to contributing to the AI revolution of agricultural systems. My vision is to digitize agricultural problems and solve them with AI techniques. The AI revolution is an inevitable worldwide trend. However, the field of agriculture has not fully benefited from AI so far. Current agricultural AI applications are mostly classical statistical and machine learning decision-makers and other AI techniques, such as image recognition, that replace simple human labor. AI can do much more than that; AI is a general idea that formulates real-world problems to numerical representation that computers can process. My research's long-term goal is to use statistical AI techniques, such as machine learning, deep learning, and their Bayesian version, to help with the decision support systems and other agriculture featured problems. 
+
+I am looking for acedemy job opportunities where I can keep learning the cutting eadge techniques and deliver AI solutions to the argricalural problems. My goal is to boost the efficiency of agricultural systems with machine learning techniques. Therefore, those who spent their entire life fighting for a basic living will have the energy to explore their potential and make the world a better place. Feel free to [contact me](mailto: joshuahane@gmail.com) if you think I am suitable for your position. 
 
 
-### Achievements:
+## My Research Interests
 
-As a Managing Editor, I developed high-impact content of 60+ issues. I am proud to say that digest's **subscription base grew by 35%** under my management or over 1,000 extra highly-engaging subscribers.
+-**Machine learning techinques**: Uncertainty quantification, Bayesian deep learning, zero-inflated modeling, anomally detection, generative models, computer vision (satellite image collections), and deploy these methods to argricultural problems.
 
-I managed the digest during the critical time of increased international attention to Ukraine - the so called [Ukrainian Crisis](https://en.wikipedia.org/wiki/Ukrainian_crisis) (Euromaidan Revolution, Annexation of Crimea, War in Donbass). "Ukraine-Analysen" provided unbiased analysis of the evolving events free of charge and was read by high-level decision makers in Germany. 
-{: .text-justify}
-
-## Why Data Science?
-As an undergrad in International Information, a unique program that combined courses in social sciences and data analysis (Excel, data visualization and statistics), I dreamed about predicting the future social events using past data - a naive, very broad and basically impossible  objective - almost a decade before all the hype around data science. However, the techniques I learned in mid-2000s were rather basic and mostly explorative, so not that predictive after all.
-{: .text-justify}
-
-When I enrolled in my PhD, I wanted to make use of more advanced methods. In 2013 I got first experience in natural language processing (NLP) using data science platform [RapidMinder](https://rapidminer.com) and began learning R. I also attended quantitative methods and Statistics courses at my university. Yet these methods didn’t find way into my final version of the thesis. As it is often in life, unexpected happened.
-{: .text-justify}
-
-I took up a role of Managing Editor just before the Ukrainian Crisis. Due to a demanding job, I had to make adjustments to my PhD in order to finish it. As a result, the research methods I used are mainly qualitative. But I still have the urge to be more quantitative, partly due to unfinished projects from my PhD life, partly because I feel it fits better my personality. 
-{: .text-justify}
-
-So when the opportunity turned up and I moved to California for family reasons, I decided to fulfill my dream and become a Data Scientist.
-
-## My Data Science Skills
-
-For one and half years I have studied full time online and made a [portfolio](/portfolio) of **Machine Learning and Predictive Analytics projects** using Python (Jupyter Notebooks, Visual Studio Code), SQL, Tableau, Excel. 
-{: .text-justify}
-
-Having a broad background allows me to learn quickly and I like to learn. See my completed Specializations and Nanodegrees on [Certificates](/certificates) page.
-
-Through online learning, I acquired experience in:
-- Cleaning and transforming data with Python libraries (Pandas, Numpy, Scikit-learn)
-- Data Preprocessing (One-Hot Encoding, Feature Scaling, Dealing with Missing Values, Dimensionality Reduction with PCA)
-- Data Visualizations and Explorative Data Analysis (EDA) using Matplotlib, Seaborn
-- Feature Engineering and selection
-- Training Machine Learning models using best practices (including train/val/test splits, class balance, outlier detection/removal) 
-- Hyperparameters tuning (including GridSearchCV)
-- Setting up ML pipelines
-- Working with SQL databases
+-**Argricultural issues**: I have experiences in water resource, sensor data, precipitation, animal behavior and quantitative genetic issues. 
 
 
-### Keywords:
+## List of software I use
 
-Python (Pandas, Numpy, Sklearn),  Data Cleaning, Data Visualization (Matplotlib, Seaborn), SQL, Command Line, Git and Version Control, Machine Learning (Linear Regression, Classification, Clustering etc.), Probability/Statistics, Deep Learning, PyTorch, Keras.
+-**Python**: `tensorflow`, `pytorh`, `earthengine`, `hyperopt`, `numpy`, `pandas`, `Sklearn`, `XGBoost`, `lightGBM`.
 
-I am ready to apply my Data Science skills to solve **Marketing, Sales or Product problems** either full-time, contract, remote or freelance.
+-**R**: `tensorflow`, `tidyverse` series, `caret`, `stan`, `XGBoost`.
 
-## Hobbies
-I [read](https://www.goodreads.com/user/show/59162734-katerina-bosko) a lot of non-fiction on a wide range of topics, like traveling, hiking and jogging.
-{: .text-justify}
+-**slurm**
+
+-**latex**
+
+
+
 
