@@ -68,6 +68,9 @@ I am looking for acedemy job opportunities where I can keep learning the cutting
 
 -**Argricultural issues**: I have experiences in water resource, sensor data, precipitation, animal behavior and quantitative genetic issues. 
 
+<i class="far fa-sticky-note"></i> **Note:** Although I have hands on these issues only, the machine learning algorithms behind can easily translate to other domains as long as the problems are clearly set up.
+  {: .notice--info}
+  {: .text-justify}
 
 
 
