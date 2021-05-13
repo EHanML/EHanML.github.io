@@ -1,7 +1,7 @@
 ---
 title: "Posts by Year"
 permalink: /year-archive/
-layout: posts
+layout: single
 author_profile: true
 header:
     overlay_image: /assets/images/joel-filipe-small-warmer.jpg

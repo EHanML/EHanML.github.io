@@ -17,42 +17,15 @@ main:
     url: /about/
     description: "About me."
   - title: "60s-paper"
-    url: /category-archive/
+    url: /tags/
     description: "Read a machine learning paper in 60s!"
   - title: "Projects"
     url: /projects/
     description: "My machine learning projects."
   # - title: "Resume"
     # url: /assets/docs/resume-kbosko.pdf  
-  - title: "Archive"
-    url: /year-archive/
+  - title: "Blog"
+    url: /blog/
+    description: "Thoughts about machine learning and other things."
 
 
-# side bar for projects
-portfolio:
-  - title: "Projects"
-    children:
-#      - title: "Machine Learning on AWS"
-#        url: /portfolio/coming/
-      - title: "Anomaly Detection in Social Networks"
-        url: /portfolio/social-networks/
-      - title: "NetComp: Python Network Comparison"
-        url: /portfolio/netcomp/
-      - title: "Automatic Genre Classification"
-        url: /portfolio/genre_cls/
-
-  - title: "Professional"
-    children:
-      - title: "DeskAI"
-        url: /portfolio/deskai
-      - title: "Smart Climate Index"
-        url: /portfolio/sclm
-
-  - title: "Research"
-    children:
-      - title: "Dynamic Anomaly Detection"
-        url: /portfolio/networks/
-      - title: "Statistics of Entanglement"
-        url: /portfolio/qm_stats/
-      - title: "Magnetic Waves and Noise"
-        url: /portfolio/waves/
