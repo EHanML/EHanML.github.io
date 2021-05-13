@@ -19,7 +19,7 @@ I am engaged in gaining **wide and deep** knowledge of the cutting edge AI metho
 
 
 
-Because the deep model architechture can memorize a big amount of the complicated data (e.g. images, sounds, natural lauguage) in an efficient way. Therefore, a machine can have much more experience than a human can ever bear. For example, an AI robot can have 180 years of human dota playing experience in a day, which is why it can beat the humans champions. Here I will present my insights into the field of AI, machine learning, and deep learning. 
+Because the deep model architechture can memorize a big amount of the complicated data (e.g. images, sounds, natural lauguage) in an efficient way. Therefore, a machine can have much more experience than a human can ever bear. For example, an AI robot can have 180 years of human gaming experience in a day, which is why it can beat the humans champions. Here I will present my insights into the field of AI, machine learning, and deep learning. 
 
 
 - **What is AI?** 
@@ -64,7 +64,7 @@ I am looking for acedemy job opportunities where I can keep learning the cutting
 
 ## My Research Interests
 
--**Machine learning techinques**: Uncertainty quantification, Bayesian deep learning, zero-inflated modeling, anomally detection, generative models, computer vision (satellite image collections), and deploy these methods to argricultural problems.
+-**Machine learning techinques**: Uncertainty quantification, Bayesian deep learning, ensemble learning, zero-inflated modeling, anomally detection, generative models, computer vision (satellite image collections), and deploy these methods to argricultural problems.
 
 -**Argricultural issues**: I have experiences in water resource, sensor data, precipitation, animal behavior and quantitative genetic issues. 
 
