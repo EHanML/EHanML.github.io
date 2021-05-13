@@ -15,8 +15,8 @@ feature_row:
   - image_path: /assets/images/60pa.jpg
     alt: "60s-Paper"
     title: "60s-Paper"
-    excerpt: "Do not have time to catch up with the lastest trend of AI? Read a paper in 60s here!."
-    url: "/portfolios/"
+    excerpt: "Do not have time to catch up with the lastest trend of AI? Read a paper in 60s here!"
+    url: "/tags/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/projimg.jpg
