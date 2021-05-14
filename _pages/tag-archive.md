@@ -1,7 +1,7 @@
 ---
 title: "60s-Paper"
 permalink: /tags/
-layout: posts
+layout: tags
 author_profile: true
 header:
     overlay_image: /assets/images/60pahead.jpg

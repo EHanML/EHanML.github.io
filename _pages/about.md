@@ -76,13 +76,12 @@ I am looking for acedemy job opportunities where I can keep learning the cutting
 
 ## List of software I use
 
--**Python**: `tensorflow`, `pytorch`, `earthengine`, `hyperopt`, `numpy`, `pandas`, `Sklearn`, `XGBoost`, `lightGBM`.
+-**Python:** `tensorflow`, `pytorch`, `earthengine`, `hyperopt`, `numpy`, `pandas`, `Sklearn`, `XGBoost`, `lightGBM`.
 
--**R**: `tensorflow`, `tidyverse` series, `caret`, `stan`, `XGBoost`.
+-**R:** `tensorflow`, `tidyverse` series, `caret`, `stan`, `XGBoost`.
 
--**slurm**
+-**Others:** `slurm` (hiper-computer workload manager), `latex` (for writting), `jekyll` (for web design).
 
--**latex**
 
 
 

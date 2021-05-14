@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 header:
     overlay_image: /assets/images/projheader.jpg
-    caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
+    # caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
 author_profile: true
 classes: wide
 date: May 15, 2020
