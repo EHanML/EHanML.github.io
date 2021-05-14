@@ -10,7 +10,7 @@ classes: wide
 date: May 15, 2020
 
 feature_row1-1:
-  - image_path: assets/images/papers.jpg
+  - image_path: assets/images/posts/teaserimg.jpg
     alt: "Probabilistic Ensemble: A Case Study in Urban Water Demand Forecasting"
     title: "A Probabilistic Ensemble Scheme for Urban Water Demand Forecasting"
     text: "bla bla bla dfdfdf"
@@ -26,7 +26,7 @@ feature_row1-1:
         - k-means clustering
 
 feature_row1-2:
-  - image_path: /assets/images/portfolio/retention_rates.png
+  - image_path: /assets/images/posts/teaserimg.jpg
     alt: "Retention Rates"
     title: "Marketing Analytics"
     text: "In a series of Marketing Analytics projects, I used Online Retail II dataset to create cohorts based on monthly data, calculated retention rates and visualized them via a heatmap. Then I created RFM (Recency, Frequency, Monetary) segments, calculated RFM Score for each customer and segmented into 3 custom segments 'Top', 'Middle' and 'Low' based on the total RFM Score. Finally, I calculated the revenue-based CLV (Customer Lifetime Value) for each customer."
@@ -45,7 +45,7 @@ feature_row1-2:
     - RFM Analysis
 
 feature_row1-3:
-  - image_path: /assets/images/portfolio/purchase-analytics-1200.jpg
+  - image_path: /assets/images/posts/teaserimg.jpg
     alt: ""
     title: "Purchase Analytics"
     text: "In this project, I analyzed purchase behavior of customers that bought 5 different brands of chocolate bars in a physical FMCG store during 2 years. In total, they made 58,693 transactions, captured through the loyalty cards they used at checkout. Based on the results of customer segmentation, I explored the segments sizes and answered the following business questions: 1. How often do people from different segments visit the store? 2. What brand do customer segments prefer on average? 3. How much revenue each customer segment brings?"
@@ -57,7 +57,7 @@ feature_row1-3:
     - Business Analytics
 
 feature_row1-4:
-  - image_path: /assets/images/portfolio/Tableau-dashboard-1200.jpg
+  - image_path: /assets/images/posts/teaserimg.jpg
     alt: "Tableau Dashboard"
     title: "Tableau Dashboard for Watershed Properties"
     text: "In this project, I performed data analysis to recommend short-term renting strategy for Watershed, a residential rental properties firm. To do this, I extracted relevant data from a real estate MySQL database, analyzed data in Excel to identify the best opportunities to increase revenue and maximize profits and created a Tableau dashboard to show the results of a sensitivity analysis."
@@ -71,7 +71,7 @@ feature_row1-4:
 
 
 feature_row3:
-  - image_path: /assets/images/portfolio/IBM_DS_platform.jpg
+  - image_path: /assets/images/posts/teaserimg.jpg
     alt: "IBM data science platform"
     title: "Content Recommendations for IBM users"
     text: "In this project, I implemented different recommendation engines for users of the IBM Watson Studio platform. <br>
@@ -86,7 +86,7 @@ feature_row3:
     - collaborative filtering
 
 feature_row4:
-  - image_path: assets/images/portfolio/facebook-ad-800.jpg
+  - image_path: assets/images/posts/teaserimg.jpg
     alt: "Facebook Ad"
     title: "Digital Marketing for Udacity"
     text: "In these projects, I run ad campaigns that advertised Udacity products on Facebook and Google Search. My **Facebook Ad campaign** took place between May 24-May 27, 2020 (3 days) and had a total budget of $100. The objective was to generate leads and collect  new email addresses from prospective Digital Marketing Nanodegree students. The results exceeded expectations - 1056 emails collected with CTR of 1.38%, average CPC $0.07 and final cost of $76.29, saving 24% of the original budget.The **Google AdWords search campaign** advertised free course 'Differential Equations in Action' in India and run for 5 days with budget of $10/day. Campaign did not result into conversions (measured as # of enrollments into the course) but generated 93 clicks with average CTR of 3.46% and average CPC of $0.55."
