@@ -80,7 +80,7 @@ I am looking for acedemy job opportunities where I can keep learning the cutting
 
 -**R:** `tensorflow`, `tidyverse` series, `caret`, `stan`, `XGBoost`.
 
--**Others:** `slurm` (hiper-computer workload manager), `latex` (for writting), `jekyll` (for web design).
+-**Others:** `slurm` (super-computer workload manager), `latex` (for writting), `jekyll` (for web design).
 
 
 
