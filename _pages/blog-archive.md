@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Blog"
-collection: blog
+collection: posts
 permalink: /blog/
 author_profile: false
 header:
@@ -9,3 +9,4 @@ header:
     # caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
 classes: wide
 ---
+sdsds

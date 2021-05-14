@@ -10,14 +10,14 @@ classes: wide
 date: May 15, 2020
 
 feature_row1-1:
-  - image_path: assets/images/posts/starbucks-cluster-conversion-rates.png
-    alt: "Clusterisation results based on Conversion Rates"
-    title: "Target Audience for Starbucks Rewards App"
-    text: "In this project, I analyzed the customer behavior in the Starbucks Rewards Mobile App. After signing up for the app, customers receive promotions every few days. The task was to identify which customers are influenced by promotional offers the most and what types of offers to send them in order to maximize the revenue. I used PCA and K-Means clustering to arrive at 3 customer segments (Disinterested, BOGO, Discount) based on Average Conversion Rates and explored their demographic profiles and shopping habits."
-    url: "https://github.com/k-bosko/Starbucks_rewards"
-    btn_label: "Code + Presentation"
-    btn_class: "btn--primary"
-    url2: "/Starbucks-Rewards-Program/"
+  - image_path: assets/images/papers.jpg
+    alt: "Probabilistic Ensemble: A Case Study in Urban Water Demand Forecasting"
+    title: "A Probabilistic Ensemble Scheme for Urban Water Demand Forecasting"
+    text: "bla bla bla dfdfdf"
+    url: "https://github.com/EHanML/Uncertainty_aware_ensemble_ML"
+    btn_label: "Code"
+    btn_class: "btn--scucess" # btn--warning btn--dange btn--info btn--primary
+    url2: "/layout-header-image-text-readability/"
     btn_label2: "Technical Report"
     btn_class: "btn--primary"
     tags: 
