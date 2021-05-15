@@ -45,7 +45,7 @@ The increasing digitalization (sensors) of society procduce a huge amount of com
 
 ## My Background
 
-<figure style="width: 30%" class="align-right">
+<figure style="width: 36%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/book1.jpg" alt="">
 </figure> 
 
@@ -53,7 +53,7 @@ I am currently a Ph.D. student in the agricultural and biological engineering de
 
 
 
-<figure style="width: 30%" class="align-left">
+<figure style="width: 36%" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/datascience.jpg" alt="">
 </figure> 
 
