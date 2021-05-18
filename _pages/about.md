@@ -76,7 +76,7 @@ I am looking for acedemy job opportunities where I can keep learning the cutting
 
 ## List of software I use
 
--**Python:** `tensorflow`, `pytorch`, `earthengine`, `hyperopt`, `numpy`, `pandas`, `Sklearn`, `XGBoost`, `lightGBM`.
+-**Python:** `tensorflow`, `pytorch`, `earthengine`, `hyperopt`, `numpy`, `pandas`, `Sklearn`, `XGBoost`, `lightGBM`，`PIL`,`cv2`.
 
 -**R:** `tensorflow`, `tidyverse` series, `caret`, `stan`, `XGBoost`.
 
