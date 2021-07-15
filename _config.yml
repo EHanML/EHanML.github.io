@@ -115,13 +115,16 @@ author:
       url: "https://www.facebook.com/profile.php?id=100007221285299"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/EHanML"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/yi-han-28bb7a178"
+    # - label: "小红书"
+      # icon: "fab fa-fw fa-linkedin"
+      # url: "https://www.xiaohongshu.com/user/profile/5fca8e1c000000000100285d"
 
 # Site Footer
 footer:
