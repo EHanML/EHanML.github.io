@@ -46,7 +46,7 @@ The increasing digitalization (sensors) of society procduce a huge amount of com
 ## My Background
 
 <figure style="width: 36%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/book1.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/book1.png" alt="">
 </figure> 
 
 I am currently a Ph.D. candidate in the agricultural and biological engineering department at the University of Florida major in machine learning. I had two master's degrees in quantitative genetics and statistics. I enjoy reading machine learning books and learning different machine learning areas in my spare time. I finished more than 10 books and several online courses during my Ph.D. program, so I have the foundamental knowledges across many machine learning areas, including *computer vision, natural lauguege processing, graph neural network, ensemble methods, kernel machines, bayesian deep learning, generative model (e.g. GAN, VAE, EBM, diffusion probabilistic models, and score-based generative modeling), reinforcement learning, causal inference and meta-learning. However, textbooks are not enough because the field of AI is developing faster than ever; new methods can become outdated in a few months. Hence, I never stop catching up with the latest papers published in the top AI conferences. I find most of these papers can be well summarized in few sentences so I create this [60s-Paper](/portfolio/) module to help people get the principles of these papers fast. My solid statistical training enabled me to gain a deep understanding of why and how machine learning models work so I can correctly deploy AI solutions to various scenarios (see my [Projects](/projects/)). 
@@ -54,7 +54,7 @@ I am currently a Ph.D. candidate in the agricultural and biological engineering 
 
 
 <figure style="width: 36%" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/datascience.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ds.png" alt="">
 </figure> 
 
 Besides machine learning, I am passionate about real-world agricultural problems because it aims to solve basic human needs. Therefore, I am committed to contributing to the AI revolution of agricultural systems. My vision is to digitize agricultural problems and solve them with AI techniques. The AI revolution is an inevitable worldwide trend. However, the field of agriculture has not fully benefited from AI so far. Current agricultural AI applications are mostly classical statistical and machine learning decision-makers and other AI techniques, such as image recognition, that replace simple human labor. AI can do much more than that; AI is a general idea that formulates real-world problems to numerical representation that computers can process. My research's long-term goal is to use statistical AI techniques, such as machine learning, deep learning, and their Bayesian version, to help with the decision support systems and other agriculture featured problems. 
