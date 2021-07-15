@@ -12,7 +12,7 @@ date: May 12, 2021
 
 
 
-I am engaged in gaining **wide and deep** knowledge of the cutting edge AI methods and find the AI solutions to real-world problems, especially in agricultural scenarios. 
+I am engaged in gaining **wide and deep** knowledge of the cutting edge AI methods and deliver the precise AI solutions to specfic real-world problems, especially in agricultural scenarios. 
 
 
 ## Why we have this "Big Data" revolution?
