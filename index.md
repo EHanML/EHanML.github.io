@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/bub.jpg
     alt: "Blog"
     title: "Blog"
-    excerpt: "My personal thoughts on machine learning."
+    excerpt: "My personal insights about machine learning."
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
