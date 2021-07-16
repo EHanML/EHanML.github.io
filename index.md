@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-user-tie'></i> About me"
       url: "/about/"
 excerpt: >
-  A website sharing machine learning principles, ideas, and tips.<br />
+  A website sharing machine learning principles, ideas, and applications.<br />
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.22.0">Latest release v4.22.0</a></small>
 feature_row:
   - image_path: /assets/images/60pa.jpg
