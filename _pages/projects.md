@@ -26,7 +26,7 @@ feature_row1-1:
     # btn_class: "btn--primary"
     tags: 
         - Uncertainty quantification
-        - Bayesian Neural Network
+        - Bayesian deep learning
         - Time series
         - LSTM
         - Ensemble
