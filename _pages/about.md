@@ -15,7 +15,7 @@ I am engaged in gaining **wide and deep** knowledge of the cutting edge AI metho
 
 The field of agriculture has not fully benefited from AI so far. Currently, most agricultural AI applications are using machine learning (ML) techniques as **Maslow's hammer**;  they formulate the agricultural problems into the form that existing ML methods can process rather than design ML algorithms for specific argricultural problems. However, just like the CNN is developed for computer vision, the GNN is developed for social networks, the transformer is developed for NLP, and etc., we have limited methods that are designed specifically for particular agricultural problems. 
 
-<i class="far fa-sticky-note"></i>  **Maslow's hammer:** "if all you have is a hammer, everything looks like a nail."
+<i class="far fa-sticky-note"></i>  **Maslow's hammer:** if all you have is a hammer, everything looks like a nail.
   {: .notice--info}
   {: .text-justify}
 
