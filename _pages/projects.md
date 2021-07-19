@@ -71,7 +71,7 @@ feature_row1-3:
 
 
 
-## Selected Projects
+## Selected Research Projects
 
 
 &nbsp;
