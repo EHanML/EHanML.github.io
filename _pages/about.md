@@ -11,7 +11,8 @@ date: May 12, 2021
 ---
 
 
-I am engaged in gaining **wide and deep** knowledge of the cutting edge AI methods, connect those dots, and deliver the precise AI solutions to specfic real-world problems, especially in agricultural scenarios. 
+I am engaged in gaining **wide and deep** knowledge of the cutting edge AI methods, connect those dots, and deliver the precise AI solutions to specfic real-world problems.
+<!--- especially in agricultural scenarios. --->
 
 The field of agriculture has not fully benefited from AI so far. Currently, most agricultural AI applications are using machine learning (ML) techniques as **Maslow's hammer**;  they formulate the agricultural problems into the form that existing ML methods can process rather than design ML algorithms for specific argricultural problems. However, just like the CNN is developed for computer vision, the GNN is developed for social networks, the transformer is developed for NLP, and etc., we have limited methods that are designed specifically for particular agricultural problems. Hence, my research ambition is to develop domain specfic ML algorithms for the data revolution in argrculture. 
 
@@ -19,35 +20,7 @@ The field of agriculture has not fully benefited from AI so far. Currently, most
   {: .notice--info}
   {: .text-justify}
 
-
-## Why we have this "Big Data" revolution?
-
-
-
-Because the deep model architechture can memorize a big amount of the complicated data (e.g. images, sounds, natural lauguage) in an efficient way. Therefore, a machine can have much more experience than a human can ever bear. For example, an AI robot can have 180 years of human gaming experience in a day, which is why it can beat the humans champions. Here I will present my insights into the field of AI, machine learning, and deep learning. 
-
-
-- **What is AI?** 
-
-<figure style="width: 40%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/aidef.png" alt="">
-</figure> 
-
-AI is a very broad and general concept that explains itself: let the machine have human intelligence. However, this term has been heavily abused probably because it makes things sound fancier. However, today's AI systems are more machine learning systems that do not have any real intelligence. 
-
-> We don't have AI systems which actually understand at the levels of humans do anywhere close. (11-30-2020)
->
-> -- <cite> Yoshua Bengio </cite> 
-
-- **What is machine learning?** 
-
-All you need to understand is the word "learning", which means **statistical estimation**. However, the number of paramters may be huge and we are not able to estimate them by hand. We need machines to do the calculations for us, which leads to the term machine learning. To sum up, machine learing is applied statistics with more emphasis on statistical estimation.
-
-- **What is deep learning?** 
-
-The increasing digitalization (sensors) of society procduce a huge amount of complicated data, which makes the machine learning problems more and more complicated. The number of paramters need to be huge to model these complicated data (e.g. satellite images), but the most advanced machines cannot complete these statistical estimations in a reasonable time. To avoid getting a model in 10 years, we need more efficient way to extract the key concepts (disentangled representation) from these data (entangled representation). Therefore, we need **deep architectures** which can reduce the computation burdern at a log scale. This statisitical reason is why deep learning can take advantage of the "Big Data". To sum up, deep learning is machine learning that have superior statistical efficiency so it can encodes very general belief of the data. 
-
-
+  
 ## My Background
 
 <figure style="width: 36%" class="align-right">
