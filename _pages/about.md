@@ -24,9 +24,9 @@ I am engaged in gaining **wide and deep** knowledge of the cutting edge ML metho
 
 <!---The field of agriculture has not fully benefited from AI so far. Currently, most agricultural AI applications are using machine learning (ML) techniques as **Maslow's hammer**;  they formulate the agricultural problems into the form that existing ML methods can process rather than design ML algorithms for specific argricultural problems. However, just like the CNN is developed for computer vision, the GNN is developed for social networks, the transformer is developed for NLP, and etc., we have limited methods that are designed specifically for particular agricultural problems. Hence, my research ambition is to develop domain specfic ML algorithms for the data revolution in argrculture.  --->
 
-Currently, most real-world applications are using machine learning (ML) techniques as **Maslow's hammer**;  problems are formulated into the form that existing ML methods can process. However, just like the CNN is developed for computer vision, GNN is developed for social networks, transformer is developed for NLP, and etc., we need to design **task specific ML algorithms** for each data science task. To do that, an ML system should be **data-centric**; we need to **program in terms of the data**:
+Currently, most real-world applications are using machine learning (ML) techniques as **Maslow's hammer**;  problems are formulated into the form that existing ML methods can process. However, just like CNN is developed for computer vision, GNN is developed for social networks, the transformer is developed for NLP, etc., we need to design **task-specific ML algorithms** for each data science task. To do that, an ML system should be **data-centric**; we need to **program in terms of the data**:
 
-> 1. **Decide assumption**: understand data sources and decide what assumptions should be made about the data --- *what's the experience?*
+> 1. **Decide assumption**: understand data sources and decide what assumptions should be made on the data --- *what's the experience?*
 > 2. **Decide model graph**: based on the assumptions, think of what the model archetecture should be like --- *what's the DAG/functional form?*
 > 3. **Decide learning ( & inference) process**: find an optimization solver --- *how to teach the experiences to the model?*
 > 4. **Decide bussiness metric**: connect bussiness values to a metric and update the model iteratively.
@@ -45,7 +45,7 @@ Currently, most real-world applications are using machine learning (ML) techniqu
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/book1.png" alt="">
 </figure> 
 
-I am currently a Ph.D. candidate in the agricultural and biological engineering department at the University of Florida (UF) major in machine learning. I had two master's degrees in quantitative genetics and statistics both at UF. I enjoy reading machine learning books and learning about different machine learning areas in my spare time. I finished more than 10 books and several online courses during my Ph.D. program, so I have the foundamental knowledges across many machine learning areas, including *Bayesian graphical model, computer vision, natural lauguege processing, graph neural network, ensemble methods, kernel machines, Bayesian deep learning, generative model (e.g. GAN, VAE, EBM, diffusion probabilistic models, and score-based generative modeling), reinforcement learning, causal inference and meta-learning. However, textbooks are not enough because the field of AI is developing faster than ever; new methods can become outdated in a few months. Hence, I never stop catching up with the latest papers published in the top AI conferences. I find many of these papers can be well summarized in few sentences so I create this [60s-Paper](/portfolio/) module to help people get the principles of these papers fast. My solid statistical training enabled me to gain a deep understanding of why and how machine learning models work so I can correctly deploy AI solutions to various scenarios (see my [Projects](/projects/)). 
+I am currently a Ph.D. candidate in the agricultural and biological engineering department at the University of Florida (UF) major in machine learning. I had two master's degrees in quantitative genetics and statistics both at UF. I enjoy reading machine learning books and learning about different machine learning areas in my spare time. I finished more than 10 books and several online courses during my Ph.D. program, so I have the fundamental knowledge across many machine learning areas, including *Bayesian graphical model, computer vision, natural language processing, graph neural network, ensemble methods, kernel machines, Bayesian deep learning, generative model (e.g. GAN, VAE, EBM, diffusion probabilistic models, and score-based generative modeling), reinforcement learning, causal inference, and meta-learning. However, textbooks are not enough because the field of AI is developing faster than ever; new methods can become outdated in a few months. Hence, I never stop catching up with the latest papers published in the top AI conferences. I find many of these papers can be well summarized in few sentences so I create this [60s-Paper](/portfolio/) module to help people get the principles of these papers fast. My solid statistical training enables me to gain a deep understanding of why and how machine learning works so I can precisely deploy AI solutions to various scenarios (see my [Projects](/projects/)). 
 
 
 
@@ -70,11 +70,24 @@ I am looking for acedemy job opportunities where I can keep learning the cutting
 
 
 
-## List of software I use
+## Skills
 
--**Python:** `tensorflow`, `pytorch`, `earthengine`, `hyperopt`, `numpy`, `pandas`, `Sklearn`, `XGBoost`, `lightGBM`，`PIL`,`cv2`.
+-**Program:** `Python`, `R`.
 
--**R:** `tensorflow`, `tidyverse` series, `caret`, `stan`, `XGBoost`.
+-**Frequently used python packages:**:
+
+  > **Deep learning:** `tensorflow`, `pytorch`.\\
+  > **Computer vision:** `PIL`, `cv2`. \\
+  > **Machine learning:** `hyperopt`, `Sklearn`, `XGBoost`, `lightGBM`, `numpy`, `pandas`.\\
+  > **Earth data:** `earthengine`.
+
+-**Frequently used R packages:**:
+
+  > **Machine learning:** `caret`, `tidyverse` series.\\
+  > **Statistical testing:** `LmerTest`.\\
+  > **Frequentist statistical analysis:** `mgcv`, `nlm`, `lmer4`.\\
+  > **Bayesian statistical analysis:** `stan`, `INLA`.
+
 
 -**Others:** `slurm` (super-computer workload manager), `latex` (for writting), `jekyll` (for web design).
 

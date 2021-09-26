@@ -1,7 +1,7 @@
 ---
 title: "Why we have this \"Big Data\" revolution?"
 header:
-    teaser: /assets/images/blog/bigdata.jpg
+    teaser: /assets/images/blog/why_big_data/bigdata.jpg
 ---
 
 
