@@ -11,7 +11,7 @@ date: May 12, 2021
 ---
 
 
-I am engaged in gaining **wide and deep** knowledge of the cutting edge ML methods, connect those dots, and deliver the precise data science solutions to real-world problems.
+I am engaged in gaining **wide and deep** knowledge of the cutting edge ML methods, connect those dots, and deliver precise data science solutions to real-world problems.
 
 <i class="far fa-sticky-note"></i> **Wide:** familiar with ML algorithms across a wide range of domains.
   {: .notice--info}
