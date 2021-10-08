@@ -2,8 +2,6 @@
 title: "Why we have this \"Big Data\" revolution?"
 header:
     teaser: /assets/images/blog/why_big_data/bigdata.jpg
-tags: 
-  - AI
 ---
 
 
@@ -35,3 +33,4 @@ All we need to understand is the word "learning", which means **statistical esti
 
 The increasing digitalization (sensors) of society procduce a huge amount of complicated data, which makes the machine learning problems more and more complicated. The number of parameters need to be huge to model these complicated data (e.g. satellite images), but the most advanced machines cannot complete these statistical estimations in a reasonable time. To avoid getting a model in 10 years, we need more efficient way to extract the key concepts (disentangled representation) from these data (entangled representation). Therefore, we need **deep architectures** which can reduce the computation burdern at a log scale. This statisitical reason is why deep learning can take advantage of the "Big Data". To sum up, deep learning is machine learning that have superior statistical efficiency so it can encodes very general belief of the data. 
 
+{: .text-justify}

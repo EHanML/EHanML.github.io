@@ -10,3 +10,5 @@ tags:
 ---
 
 Test blog.
+
+{: .text-justify}
