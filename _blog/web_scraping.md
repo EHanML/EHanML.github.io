@@ -9,7 +9,7 @@ header:
 
 - **Goal:** extract (some specific) data from website
 - **Tools:** 
-    - **Install chrome:** [Link](https://sites.google.com/a/chromium.org/chromedriver/)home (download and put it in your path)
+    - **Install chrome:** [Link](https://sites.google.com/a/chromium.org/chromedriver/) (download and put it in your path)
     - **Automating browsers**: `selenium` 
     - **Parse HTML**: `bs4`
     - **Lots of IPs:** public cloud (e.g., AWS EC2 t3.small)
@@ -23,7 +23,7 @@ header:
         - a) store 2.a
     - ***4) Repeat 1-3**
 
-- **More details:** [Web scrping book](https://github.com/REMitchell/python-scraping)
+- **More details:** [Web scraping book](https://github.com/REMitchell/python-scraping)
 
 # Steps
 
