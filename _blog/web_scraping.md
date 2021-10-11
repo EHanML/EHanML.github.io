@@ -81,14 +81,14 @@ links = [a['href'] for a in [page.find_all('a', 'list-card-link')]]
 ids = [l.split('/')[-2].split('_')[0] 
       for l in links]
 ```
-Then uses these IDs to create URLs that can return house detail pages. How? Click on any house and see how the ID fits the URL template, e.g., [https://www.zillow.com/homedetails/46219913_zpid/](https://www.zillow.com/homedetails/46219913_zpid/).
+Then uses these IDs to create URLs that can return house detail pages. How? Click on any house and see how the ID appears in the URL template, e.g., [https://www.zillow.com/homedetails/46219913_zpid/](https://www.zillow.com/homedetails/46219913_zpid/).
 
 ## Step 4: Extract data 
-Check the HTML of a house detail page and find its elements (variables for ML) through inspect. The elements can be a scalar (house price), a text (house summary), and an image (house image). We can easy build an end-to-end model with neural network (NN) that ingests all these data.
+Check the HTML of a house detail page and find its elements (variables for ML) through inspect. The elements can be a scalar (house price), a text (house summary), or an image (house image). We can then easily build an end-to-end model with neural network (NN) that ingests all these data.
 
-### Get tabular features and texts.
+### a) Get tabular features and texts.
 Incorporate your finds in `bs4_object.find()` and `bs4_object.findall()` with regular expression. For example, we interested in sold price and sold date of a house:
-```python3
+```python
 # find where 
 sold_items = [a.text for a in page.find('p').findall('span')]
 for item in sold_items:
@@ -101,10 +101,10 @@ for item in sold_items:
   {: .notice--info}
   {: .text-justify}
 
-### Get images.
+### b) Get images.
 We can find all Zillow images are stored in photos.zillowstatic.com, e.g., [https://photos.zillowstatic.com/fp/83d86052c1615f3b7eda334a90efed5f-uncropped_scaled_within_1536_1152.webp](https://photos.zillowstatic.com/fp/83d86052c1615f3b7eda334a90efed5f-uncropped_scaled_within_1536_1152.webp). We change the ids in this template to get the images we need.
 
-```python3
+```python
 p = r'https:\\/\\/photos.zillowstatic.com\\/fp\\/([\d\w\-\_]+).jpd'
 
 # get all the photo IDs in the HTML
