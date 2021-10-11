@@ -27,7 +27,7 @@ header:
 
 # Steps
 
-<i class="far fa-sticky-note"></i> **Note:** we have to open a browser, e.g., Chrome, and a jupyter notebook, and work with both at the same time. The code is constructed based on what shows up in the browser.
+<i class="far fa-sticky-note"></i> **Note:** The idea of web scraping is to translate human browing process into code. Hence, we have to open a browser, e.g., Chrome, and a jupyter notebook, and work with both at the same time. The code is constructed based on what shows up in the browser.
   {: .notice--info}
   {: .text-justify}
 
