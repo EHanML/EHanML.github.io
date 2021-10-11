@@ -1,7 +1,7 @@
 ---
 title: "Hands-on Web Scraping for Machine Learning"
 header:
-    teaser: /assets/images/blog/why_big_data/bigdata.jpg
+    teaser: /assets/images/blog/web_scraping/web_scraping.png
 
 
 ---
