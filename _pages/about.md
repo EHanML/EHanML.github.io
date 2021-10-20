@@ -20,8 +20,6 @@ I am engaged in gaining **wide and deep** knowledge of cutting-edge machine lear
   {: .notice--info}
   {: .text-justify}
 <i class="far fa-sticky-note"></i> **Connect the dots:** Here is a metaphor. Imagine each ML knowledge as a dot. Then most industry-level applications are direct *leveraging* those dots (applying GAN with a dataset), most ML researches are *interpolating* those dots (inventing WGAN by replacing JS-divergence with Wasserstein distance), and very few ML researches are *extrapolating* (Ian Goodfellow inventing GAN). I am engaged in the interpolation of the dots, i.e., use the *convex hull* of my knowledge dots to solve real-world issues.
-
-the **convex hull** of these dots 
   {: .notice--info}
   {: .text-justify}
 
