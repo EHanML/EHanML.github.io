@@ -30,7 +30,7 @@ I am engaged in gaining **wide and deep** knowledge of cutting-edge machine lear
 Currently, most real-world applications are using machine learning (ML) techniques as **Maslow's hammer**;  problems are formulated into the form that existing ML methods can process. However, just like CNN is developed for computer vision, GNN is developed for social networks, the transformer is developed for NLP, etc., we need to design **task-specific ML algorithms** for each data science task. To do that, an ML system should be **data-centric**; we need to **program in terms of the data**:
 
 > 1. **Decide assumption**: understand data sources and decide what assumptions should be made on the data --- *what's the experience?*
-> 2. **Decide model graph**: based on the assumptions, think of what the model archetecture should be like --- *what's the DAG/functional form?*
+> 2. **Decide model graph**: based on the real-world probelm we trying to solve, think of what the model archetecture should be like --- *what's the DAG/functional form?*
 > 3. **Decide learning ( & inference) process**: find an optimization solver --- *how to teach the experiences to the model?*
 > 4. **Decide bussiness metric**: connect bussiness values to a metric and update the model iteratively.
 > 5. **Deploy the model to production**
