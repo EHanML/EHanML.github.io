@@ -5,7 +5,7 @@ header:
 ---
 
 
-> Here are the author's perspectives on understanding concepts like big data, machine learning, and deep learning.
+> Here are the author's perspectives on concepts like big data, machine learning, and deep learning.
 
 ## Why Big Data?
 
