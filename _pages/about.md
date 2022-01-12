@@ -7,14 +7,14 @@ header:
     overlay_image: /assets/images/header.jpg
     # caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
     actions:
-      - label: "<i class='fas fa-user-tie'></i> Resume"
-        url: "https://ehanml.github.io/docs/Resume.pdf"
+      - label: "<i class='fas fa-file-pdf'></i> Resume"
+        url: /assets/docs/resume.pdf
 classes: wide
 date: May 12, 2021
 ---
 
 
-I am engaged in gaining **wide and deep** knowledge of cutting-edge machine learning (ML) methods, **connect those dots**, and deliver precise data science solutions to real-world problems.
+I am engaged in gaining **wide and deep** knowledge of cutting-edge machine learning (ML) methods, **connect those dots**, and deliver precise data science solutions to real-world problems. 
 
 <i class="far fa-sticky-note"></i> **Wide:** Familiar with ML algorithms across a wide range of domains.
   {: .notice--info}
