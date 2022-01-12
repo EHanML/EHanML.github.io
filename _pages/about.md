@@ -29,8 +29,8 @@ I am engaged in gaining **wide and deep** knowledge of cutting-edge machine lear
 
 Currently, most real-world applications are using machine learning (ML) techniques as **Maslow's hammer**;  problems are formulated into the form that existing ML methods can process. However, just like CNN is developed for computer vision, GNN is developed for social networks, the transformer is developed for NLP, etc., we need to design **task-specific ML algorithms** for each data science task. To do that, an ML system should be **data-centric**; we need to **program in terms of the data**:
 
-> 1. **Decide assumption**: understand data sources and decide what assumptions should be made on the data --- *what's the experience?*
-> 2. **Decide model graph**: based on the real-world probelm we trying to solve, think of what the model archetecture should be like --- *what's the DAG/functional form?*
+> 1. **Decide assumption**: understand data sources and decide what data assumptions should be made --- *what is the experience?*
+> 2. **Decide model graph**: based on the real-world probelm, think of what the model archetecture should be like --- *what's the DAG/functional form?*
 > 3. **Decide learning ( & inference) process**: find an optimization solver --- *how to teach the experiences to the model?*
 > 4. **Decide bussiness metric**: connect bussiness values to a metric and update the model iteratively.
 > 5. **Deploy the model to production**
@@ -48,7 +48,9 @@ Currently, most real-world applications are using machine learning (ML) techniqu
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/book1.png" alt="">
 </figure> 
 
-I am currently a Ph.D. candidate in the agricultural and biological engineering department at the University of Florida (UF) major in machine learning. I had two master's degrees in statistics and quantitative genetics (applied statistics) both at UF. I have 7+ years of research experience in data science, he has led several projects either individually or collaboratively, which result in peer-review publications. These projects are highly-interdisciplinary, which requires me to 1) communicate efficiently with domain experts and engineers, 2) fast learn a new domain, 3) be familiar with a wide range of machine learning technologies, and 4) keep updating with cutting-edge machine learning methods for state-of-the-art practices. In my spare time, I enjoy reading machine learning books and learning about different machine learning areas. I finished more than 10 books and several online courses during my Ph.D. program, so I have the fundamental knowledge across many machine learning areas, including *Bayesian graphical model, computer vision, natural language processing, graph neural network, ensemble methods, kernel machines, Bayesian deep learning, generative model (e.g. GAN, VAE, EBM, diffusion probabilistic models, and score-based generative modeling), reinforcement learning, and meta-learning*. However, textbooks are not enough because the field of AI is developing faster than ever; new methods can become outdated in a few months. Hence, I never stop catching up with the latest papers published in the top AI conferences. I find many of these papers can be well summarized in few sentences so I create this [60s-Paper](/portfolio/) module to help people get the principles of these papers fast. My solid statistical training enables me to gain a deep understanding of why and how machine learning works so I can precisely deploy AI solutions to various scenarios (see my [Projects](/projects/)). 
+I am currently a Ph.D. candidate in the agricultural and biological engineering department at the University of Florida (UF) major in machine learning. I had two master's degrees in statistics and quantitative genetics (applied statistics) both at UF. I have 7+ years of research experience in data science, and have led several projects either individually or collaboratively, which result in peer-review publications. These projects are highly-interdisciplinary, which requires me to 1) communicate efficiently with domain experts and engineers, 2) fast learn a new domain, 3) be familiar with a wide range of machine learning technologies, and 4) keep updating with cutting-edge machine learning methods for state-of-the-art practices. 
+
+In my spare time, I enjoy reading machine learning books and learning about different machine learning areas. I finished more than 10 books and several online courses during my Ph.D. program, so I have the fundamental knowledge across a wide range of machine learning areas, including *Bayesian graphical model, computer vision, natural language processing, graph neural network, ensemble methods, kernel machines, Bayesian deep learning, generative model (e.g. GAN, VAE, EBM, diffusion probabilistic models, and score-based generative modeling), reinforcement learning, and meta-learning*. However, textbooks are not enough because the field of AI is developing faster than ever; new methods can become outdated in a few months. Hence, I never stop catching up with the latest papers published in the top AI conferences. I find many of these papers can be well summarized in few sentences so I create this [60s-Paper](/portfolio/) module to help people get the principles of these papers fast. My solid statistical training enables me to gain a deep understanding of why and how machine learning works so I can precisely deploy AI solutions to various scenarios (see my [Projects](/projects/)). 
 
 
 
@@ -60,14 +62,14 @@ I am currently a Ph.D. candidate in the agricultural and biological engineering 
 
 I am looking for acedemy job opportunities where I can keep learning the cutting eadge techniques and deliver AI solutions to the argricalural problems. My goal is to boost the efficiency of agricultural systems with machine learning techniques. Therefore, those who spent their entire life fighting for a basic living will have the energy to explore their potential and make the world a better place. Feel free to [contact me](mailto: joshuahane@gmail.com) if you think I am suitable for your position.  -->
 
-I am looking for industry job opportunities where I can keep learning the cutting eadge techniques and deliver data science solutions to real-world problems. My goal is seeking data-driven opportunities and transcending traditional disciplinary boundaries with machine learning methods. Feel free to [contact me](mailto: joshuahane@gmail.com) if you think I am suitable for your position. 
+I am looking for a job where I can keep learning the cutting eadge techniques and deliver data science solutions to real-world problems. My goal is seeking data-driven opportunities and transcending traditional disciplinary boundaries with machine learning methods. Feel free to [contact me](mailto: joshuahane@gmail.com) if you think I am suitable for your position. 
 
 
 ## My Research Interests
 
--**Machine learning techinques**: Uncertainty quantification, Bayesian deep learning, ensemble learning, zero-inflated modeling, anomally detection, generative models, computer vision (satellite image collections), and deploy these methods to argricultural problems.
+-**Machine learning techinques**: Uncertainty quantification, probabilistic machine learning, Bayesian deep learning, ensemble learning, time series forecasting, zero-inflated modeling, anomally detection, generative models, computer vision (satellite image collections), cost-sensitive learning.
 
--**Real-world issues**: I have experiences in water resource, sensor data, precipitation, animal behavior and quantitative genetic issues. 
+-**Real-world issues**: I have experiences in water resource, sensor data, remote-sensing data, animal behavior and quantitative genetic issues. 
 
 <i class="far fa-sticky-note"></i> **Note:** Although I have hands on these issues only, the machine learning algorithms behind can easily translate to other domains as long as the problems are clearly set up.
   {: .notice--info}
@@ -77,7 +79,7 @@ I am looking for industry job opportunities where I can keep learning the cuttin
 
 ## Skills
 
--**Program:** `Python`, `R`.
+-**Program:** `Python`, `R`, `SQL`.
 
 -**Frequently used python packages:**:
 
