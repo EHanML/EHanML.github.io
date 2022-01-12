@@ -6,6 +6,9 @@ author_profile: true
 header:
     overlay_image: /assets/images/header.jpg
     # caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
+    actions:
+      - label: "<i class='fas fa-user-tie'></i> Resume"
+        url: "https://ehanml.github.io/docs/Resume.pdf"
 classes: wide
 date: May 12, 2021
 ---
@@ -50,13 +53,14 @@ Currently, most real-world applications are using machine learning (ML) techniqu
 
 I am currently a Ph.D. candidate in the agricultural and biological engineering department at the University of Florida (UF) major in machine learning. I had two master's degrees in statistics and quantitative genetics (applied statistics) both at UF. I have 7+ years of research experience in data science, and have led several projects either individually or collaboratively, which result in peer-review publications. These projects are highly-interdisciplinary, which requires me to 1) communicate efficiently with domain experts and engineers, 2) fast learn a new domain, 3) be familiar with a wide range of machine learning technologies, and 4) keep updating with cutting-edge machine learning methods for state-of-the-art practices. 
 
+<figure style="width: 36%" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ds.png" alt="">
+</figure> 
+
 In my spare time, I enjoy reading machine learning books and learning about different machine learning areas. I finished more than 10 books and several online courses during my Ph.D. program, so I have the fundamental knowledge across a wide range of machine learning areas, including *Bayesian graphical model, computer vision, natural language processing, graph neural network, ensemble methods, kernel machines, Bayesian deep learning, generative model (e.g. GAN, VAE, EBM, diffusion probabilistic models, and score-based generative modeling), reinforcement learning, and meta-learning*. However, textbooks are not enough because the field of AI is developing faster than ever; new methods can become outdated in a few months. Hence, I never stop catching up with the latest papers published in the top AI conferences. I find many of these papers can be well summarized in few sentences so I create this [60s-Paper](/portfolio/) module to help people get the principles of these papers fast. My solid statistical training enables me to gain a deep understanding of why and how machine learning works so I can precisely deploy AI solutions to various scenarios (see my [Projects](/projects/)). 
 
 
 
-<figure style="width: 36%" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ds.png" alt="">
-</figure> 
 
 <!-- Besides machine learning, I am passionate about real-world agricultural problems because it aims to solve basic human needs. Therefore, I am committed to contributing to the AI revolution of agricultural systems. My vision is to digitize agricultural problems and solve them with AI techniques. The AI revolution is an inevitable worldwide trend. However, the field of agriculture has not fully benefited from AI so far. Current agricultural AI applications are mostly classical statistical and machine learning decision-makers and other AI techniques, such as image recognition, that replace simple human labor. AI can do much more than that; AI is a general idea that formulates real-world problems to numerical representation that computers can process. My research's long-term goal is to use statistical AI techniques, such as machine learning, deep learning, and their Bayesian version, to help with the decision support systems and other agriculture featured problems. 
 
