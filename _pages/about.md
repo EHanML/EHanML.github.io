@@ -13,6 +13,7 @@ classes: wide
 date: May 12, 2021
 ---
 
+<!-- bundle exec jekyll serve -w -->
 
 I am engaged in gaining **wide and deep** knowledge of cutting-edge machine learning (ML) methods, **connect those dots**, and deliver precise data science solutions to real-world problems. 
 
