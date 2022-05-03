@@ -9,8 +9,8 @@ header:
 
 - **Goal:** extract (some specific) data from website
 - **Tools:** 
-    - **Install chrome:** [Link](https://sites.google.com/a/chromium.org/chromedriver/) (download and put it in your path)
-    - **Automating browsers**: `selenium` 
+    - **Install chrome:** [Link](https://sites.google.com/chromium.org/driver/) (download and put it in your path)
+    - **Automating browsers**: `selenium` [Guide](https://selenium-python.readthedocs.io/installation.html) 
     - **Parse HTML**: `bs4`
     - **Lots of IPs:** public cloud (e.g., AWS EC2 t3.small)
 - **Steps:**
