@@ -32,7 +32,7 @@ header:
   {: .text-justify}
 
 ## Step 1: Install tools and libraries 
-Download chrome drive and put it in your path: [Link](https://sites.google.com/a/chromium.org/chromedriver/)
+Download chrome drive and put it in your path ("C://Users//path/to/chromedriver/chromedriver.exe"): [Link](https://sites.google.com/chromium.org/driver/) [Guide](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
 
 Install `selenium` and `bs4` in the command line, or open a jupyter notebook and run:
 ```python
