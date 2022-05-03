@@ -60,7 +60,7 @@ chrome_options = webdriver.ChromeOptions()
 
 # headless (only command line without GUI to fake human)
 chrome_options.headless = True 
-chrome = webdriver.Chrome(
+chrome = webdriver.Chrome("C://Users/Yi/WebDrivers/chromedriver.exe",
     options = chrome_options)
 
 # get HTML page
