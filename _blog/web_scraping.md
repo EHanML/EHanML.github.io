@@ -44,6 +44,7 @@ import sys
 Load libaries:
 ```python
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import re
 ```
@@ -68,7 +69,11 @@ chrome = webdriver.Chrome("C://Users/Yi/WebDrivers/chromedriver.exe",
 page = chrome.get(url)
 ```
 
-Once you get the page, you may play with it using `selenium` functions like `.find_element_by_id("some_id")` where `some_id` can be find by right clicking the element of interest and choose insepect!
+Once you get the page, you may interact with it using `selenium` functions:
+
+- Locate element: `chrome.find_element_by_id("some_id")` where `some_id` can be find by right clicking the element of interest and choose insepect!
+- Enter texts: `chrome.send_keys("Orlando apartment")`
+- Click:  `chrome.send_keys(Keys.RETURN)`, `chrome.find_element_by_id("some_id").click()`
 
 ## Step 3: Parse HTML
 
