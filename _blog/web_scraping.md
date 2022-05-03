@@ -9,7 +9,8 @@ header:
 
 - **Goal:** extract (some specific) data from website
 - **Tools:** 
-    - **Install chrome:** [Link](https://sites.google.com/chromium.org/driver/) (download and put it in your path)
+    - **Install chrome:** [Link](https://www.google.com/chrome/?brand=YTUH&gclid=Cj0KCQjwpcOTBhCZARIsAEAYLuWAFFS1tqyCapsGYcMEuHXkRYqcgAQon0RF8dAiL5c1BZSOi_bNGXoaArs5EALw_wcB&gclsrc=aw.ds)
+    - **Install chrome driver:** [Link](https://sites.google.com/chromium.org/driver/) (download and put it in your path)
     - **Automating browsers**: `selenium` [Guide](https://selenium-python.readthedocs.io/installation.html) 
     - **Parse HTML**: `bs4`
     - **Lots of IPs:** public cloud (e.g., AWS EC2 t3.small)
@@ -66,6 +67,8 @@ chrome = webdriver.Chrome("C://Users/Yi/WebDrivers/chromedriver.exe",
 # get HTML page
 page = chrome.get(url)
 ```
+
+Once you get the page, you may play with it using `selenium` functions like `.find_element_by_id("some_id")` where `some_id` can be find by right clicking the element of interest and choose insepect!
 
 ## Step 3: Parse HTML
 
