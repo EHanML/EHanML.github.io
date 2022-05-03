@@ -87,7 +87,7 @@ Then uses these IDs to create URLs that can return house detail pages. How? Clic
 Check the HTML of a house detail page and find its elements (variables for ML) through inspect. The elements can be a scalar (house price), a text (house summary), or an image (house image). We can then easily build an end-to-end model with neural network (NN) that ingests all these data.
 
 ### a) Get tabular features and texts.
-Incorporate your finds in `bs4_object.find()` and `bs4_object.findall()` with regular expression. For example, we interested in sold price and sold date of a house:
+Incorporate your findings in `bs4_object.find()` and `bs4_object.findall()` with regular expression. For example, we interested in sold price and sold date of a house:
 ```python
 # find where 
 sold_items = [a.text for a in page.find('p').findall('span')]
