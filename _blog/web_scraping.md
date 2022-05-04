@@ -70,9 +70,9 @@ page = chrome.get(url)
 ```
 Once we get the page, we may interact with it using `selenium` functions ([for more information](https://selenium-python.readthedocs.io/navigating.html)):
 
-- Locate element: `search = chrome.find_element_by_id("some_id")` where `some_id` can be found by right clicking the element of interest and choose inspect!
-- Type in: `search.send_keys("Orlando apartment")`
-- Click:  `search.send_keys(Keys.RETURN)`, `chrome.find_element_by_id("some_id").click()`
+- Locate element: `element = chrome.find_element_by_id("some_id")` where `some_id` can be found by right clicking the element of interest and choose inspect!
+- Type in: `element.send_keys("Orlando apartment")`
+- Click:  `element.send_keys(Keys.RETURN)`, `element.click()`
 
 ## Step 3: Parse HTML
 
